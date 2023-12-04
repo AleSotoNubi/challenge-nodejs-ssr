@@ -33,7 +33,7 @@ Este challenge esta pensado para que pueda resolverse sin alguna libreria/depend
 ## BONUS 💡
 - Usar typescript
 - Tests
-- Seguridad
+- Seguridad (proteger los endpoints contra uso no autorizado, implementando algun mecanismo de validacion de acceso a los mismos)
 - manejo de variables y scopes
 - Que soporte QueryParams como:
   - pagination: `?page=2&limit=5`
